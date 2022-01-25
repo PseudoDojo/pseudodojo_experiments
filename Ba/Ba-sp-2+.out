@@ -60,9 +60,19 @@ in any publication utilizing these pseudopotentials.
 #
 # TEST CONFIGURATIONS
 # ncnf
-    0
+    2
 # nvcnf
 #   n    l    f
+    3
+    5    0    2.00
+    5    1    6.00
+    6    0    1.00
+#
+    3
+    5    0    2.00
+    5    1    6.00
+    6    0    0.00
+#
 
 
 Reference configufation results
@@ -443,6 +453,47 @@ Test configuration 0
       AE_ref= -8.13500536D+03  AE_tst= -8.13500536D+03  dif=  0.00D+00
       PS_ref= -2.50591904D+01  PS_tst= -2.50591904D+01  dif= -2.49D-14
       PSP excitation error=  0.00D+00
+
+Test configuration 1
+
+   n   l     f        eae           eps        diff
+   1   0  2.0000-1369.50398918
+   2   0  2.0000 -216.64096746
+   2   1  6.0000 -194.27955283
+   3   0  2.0000  -45.89629567
+   3   1  6.0000  -38.72847327
+   3   2 10.0000  -28.32143240
+   4   0  2.0000   -9.17372085
+   4   1  6.0000   -6.86197691
+   4   2 10.0000   -3.50598332
+   5   0  2.0000   -1.44575548   -1.44556889    1.87D-04
+   5   1  6.0000   -0.89524465   -0.89526816   -2.35D-05
+   6   0  1.0000   -0.27872394   -0.27871860    5.34D-06
+
+    Total energies and differences
+      AE_ref= -8.13500536D+03  AE_tst= -8.13536764D+03  dif= -3.62D-01
+      PS_ref= -2.50591904D+01  PS_tst= -2.54215016D+01  dif= -3.62D-01
+      PSP excitation error=  3.54D-05
+
+Test configuration 2
+
+   n   l     f        eae           eps        diff
+   1   0  2.0000-1369.75439333
+   2   0  2.0000 -216.89093282
+   2   1  6.0000 -194.52951872
+   3   0  2.0000  -46.14601288
+   3   1  6.0000  -38.97818831
+   3   2 10.0000  -28.57117975
+   4   0  2.0000   -9.42254091
+   4   1  6.0000   -7.11064805
+   4   2 10.0000   -3.75430092
+   5   0  2.0000   -1.68980461   -1.68978723    1.74D-05
+   5   1  6.0000   -1.13581909   -1.13582275   -3.66D-06
+
+    Total energies and differences
+      AE_ref= -8.13500536D+03  AE_tst= -8.13500083D+03  dif=  4.53D-03
+      PS_ref= -2.50591904D+01  PS_tst= -2.50546589D+01  dif=  4.53D-03
+      PSP excitation error= -4.47D-07
 
 DATA FOR PLOTTING
 
@@ -14145,9 +14196,19 @@ Ba    ONCVPSP-4.0.1  r_core=   1.95988   1.80243   1.90213   2.10575
 #
 # TEST CONFIGURATIONS
 # ncnf
-    0
+    2
 # nvcnf
 #   n    l    f
+    3
+    5    0    2.00
+    5    1    6.00
+    6    0    1.00
+#
+    3
+    5    0    2.00
+    5    1    6.00
+    6    0    0.00
+#
 </INPUT>
 
 END_PSP
@@ -14223,9 +14284,19 @@ Begin PSP_UPF
 #
 # TEST CONFIGURATIONS
 # ncnf
-    0
+    2
 # nvcnf
 #   n    l    f
+    3
+    5    0    2.00
+    5    1    6.00
+    6    0    1.00
+#
+    3
+    5    0    2.00
+    5    1    6.00
+    6    0    0.00
+#
     </PP_INPUTFILE>
   </PP_INFO>
   <!--                               -->
