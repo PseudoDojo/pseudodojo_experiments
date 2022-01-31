@@ -4220,7 +4220,7 @@ Xe    ONCVPSP-4.0.1  r_core=   1.40265   1.40265   1.40265   1.40265
 #
 # ATOM AND REFERENCE CONFIGURATION
 # atsym  z   nc   nv     iexc    psfile
-Xe 54.00    6    5       4      psp8
+Xe 54.00    6    5       4      both
 #
 #   n    l    f
 1    0    2.00
