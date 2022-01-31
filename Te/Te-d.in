@@ -13,21 +13,23 @@ Te 52 8 3 4 both
 5 0 2.0
 5 1 4.0
 # lmax
-2
+3
 # l rc ep ncon nbas qcut
 0 2.25 0.0 4 8 4.2
-1 1.9 0.0 4 8 4.8
+1 1.9 0.0 4 8 6.0
 2 1.8 0.0 4 9 8.4
+3 2.0 0.05 4 8 6.0
 # lloc lpopt rc5 dvloc0
 4 5 1.8 0.0
 # l nproj debl
-0 2 3.0
+0 3 3.0
 1 2 3.5
 2 2 1.6
-# icmod fcfact
-3 5 1.43
+3 2 2.0
+# icmod fcfact rcfact
+3 5.0 1.43
 # epsh1 epsh2 depsh
 -12.0 12.0 0.02
 # rlmax drl
 6.0 0.01
- 0
+0
