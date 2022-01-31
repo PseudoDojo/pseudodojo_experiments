@@ -1,5 +1,5 @@
 # atsym z nc nv iexc psfile
-Rn 86 13 2 4 psp8
+Rn 86 13 2 4 both
 # n l f
 1 0 2.0
 2 0 2.0
@@ -17,17 +17,19 @@ Rn 86 13 2 4 psp8
 6 0 2.0
 6 1 6.0
 # lmax
-2
+3
 # l rc ep ncon nbas qcut
 0 2.4 0.0 4 7 4.6
 1 2.1 0.0 4 8 5.0
 2 2.85 0.05 4 7 3.4
+3 2.1 0.05 4 7 4.0
 # lloc lpopt rc5 dvloc0
 4 5 2.1 0.0
 # l nproj debl
-0 2 2.2
+0 2 4.2
 1 2 2.2
 2 2 2.2
+3 2 1.0
 # icmod fcfact
 3 8.0 1.2
 # epsh1 epsh2 depsh
