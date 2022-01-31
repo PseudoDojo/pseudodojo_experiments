@@ -4220,7 +4220,7 @@ Tl    ONCVPSP-4.0.1  r_core=   2.16061   2.66382   2.01094   2.10952
 #
 # ATOM AND REFERENCE CONFIGURATION
 # atsym  z   nc   nv     iexc    psfile
-Tl 81.00   12    3       4      psp8
+Tl 81.00   12    3       4      both
 #
 #   n    l    f
 1    0    2.00

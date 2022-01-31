@@ -1,33 +1,33 @@
 {
-"basename": "Tl-d.psp8",
+"basename": "Tl-spd-high.psp8",
 "ecuts": [
-18.0,
-20.0,
-22.0,
-24.0,
-26.0,
-28.0,
 30.0,
 32.0,
 34.0,
 36.0,
 38.0,
+40.0,
+42.0,
+44.0,
 46.0,
-48.0
+48.0,
+50.0,
+58.0,
+60.0
 ],
-"md5": "1b122cb2e8ae52dfa2a7ef980e20a2d3",
+"md5": "7eca4cc99005da0c2cdf34ff5e160570",
 "ppgen_hints": {
 "high": {
-"ecut": 28.0,
-"pawecutdg": 28.0
+"ecut": 40.0,
+"pawecutdg": 40.0
 },
 "low": {
-"ecut": 24.0,
-"pawecutdg": 24.0
+"ecut": 35.0,
+"pawecutdg": 35.0
 },
 "normal": {
-"ecut": 26.0,
-"pawecutdg": 26.0
+"ecut": 38.0,
+"pawecutdg": 38.0
 }
 },
 "pseudo_type": "NC",
