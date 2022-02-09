@@ -1,2 +1,2 @@
 # pseudodojo_experiments
-A repo for storing and exchanging experimentals pseudos
+A repo for storing and exchanging experimental pseudos
