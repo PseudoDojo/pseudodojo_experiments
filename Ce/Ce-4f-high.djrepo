@@ -1,5 +1,5 @@
 {
-"basename": "Ce-sp-high.psp8",
+"basename": "Ce-4f-high.psp8",
 "ecuts": [
 69.0,
 71.0,
@@ -15,7 +15,7 @@
 97.0,
 99.0
 ],
-"md5": "8a2ff6518dd5fdbe87020feabac95085",
+"md5": "cd86ec4381ccb7cb5f1ae3395c3fe247",
 "ppgen_hints": {
 "high": {
 "ecut": 79.0,
