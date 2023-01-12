@@ -1,8 +1,6 @@
 {
 "basename": "Ho-4f.psp8",
 "ecuts": [
-68.0,
-70.0,
 72.0,
 74.0,
 76.0,
@@ -12,22 +10,24 @@
 84.0,
 86.0,
 88.0,
-96.0,
-98.0
+90.0,
+92.0,
+100.0,
+102.0
 ],
-"md5": "392595be2ed13c0cb39970eae2da18d6",
+"md5": "042f6b376376e3ade87991b767fa2345",
 "ppgen_hints": {
 "high": {
-"ecut": 78.0,
-"pawecutdg": 78.0
+"ecut": 82.0,
+"pawecutdg": 82.0
 },
 "low": {
-"ecut": 67.0,
-"pawecutdg": 67.0
+"ecut": 76.0,
+"pawecutdg": 76.0
 },
 "normal": {
-"ecut": 71.0,
-"pawecutdg": 71.0
+"ecut": 79.0,
+"pawecutdg": 79.0
 }
 },
 "pseudo_type": "NC",

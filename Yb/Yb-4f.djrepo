@@ -1,6 +1,10 @@
 {
 "basename": "Yb-4f.psp8",
 "ecuts": [
+73.0,
+75.0,
+77.0,
+79.0,
 81.0,
 83.0,
 85.0,
@@ -8,26 +12,22 @@
 89.0,
 91.0,
 93.0,
-95.0,
-97.0,
-99.0,
 101.0,
-109.0,
-111.0
+103.0
 ],
-"md5": "099c87f679e3d99e42cb2309196f2682",
+"md5": "df4369a30d5247bb79329a565a0e4220",
 "ppgen_hints": {
 "high": {
-"ecut": 91.0,
-"pawecutdg": 91.0
-},
-"low": {
 "ecut": 83.0,
 "pawecutdg": 83.0
 },
+"low": {
+"ecut": 76.0,
+"pawecutdg": 76.0
+},
 "normal": {
-"ecut": 87.0,
-"pawecutdg": 87.0
+"ecut": 80.0,
+"pawecutdg": 80.0
 }
 },
 "pseudo_type": "NC",
