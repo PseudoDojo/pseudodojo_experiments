@@ -1,5 +1,5 @@
 Eu    ONCVPSP-4.0.1  r_core=   2.01108   1.60216   1.90567   1.60216
-63.0000     17.0000      230112    zatom,zion,pspd
+63.0000     17.0000      230227    zatom,zion,pspd
 8      11   3     4   600     0    pspcod,pspxc,lmax,lloc,mmax,r2well
 5.99000000  4.00000000  0.00000000    rchrg fchrg qchrg
 2     2     2     2     0    nproj
@@ -4220,7 +4220,7 @@ Eu    ONCVPSP-4.0.1  r_core=   2.01108   1.60216   1.90567   1.60216
 #
 # ATOM AND REFERENCE CONFIGURATION
 # atsym  z   nc   nv     iexc    psfile
-Eu 63.00    9    5       4      psp8
+Eu 63.00    9    5       4      both
 #
 #   n    l    f
 1    0    2.00
