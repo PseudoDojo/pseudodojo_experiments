@@ -1,5 +1,5 @@
 Bi    ONCVPSP-4.0.1  r_core=   2.40513   2.50798   2.10854   2.10854
-83.0000     15.0000      220201    zatom,zion,pspd
+83.0000     15.0000      230320    zatom,zion,pspd
 8      11   3     4   600     0    pspcod,pspxc,lmax,lloc,mmax,r2well
 5.99000000  6.00000000  0.00000000    rchrg fchrg qchrg
 3     2     2     1     0    nproj
@@ -4220,7 +4220,7 @@ Bi    ONCVPSP-4.0.1  r_core=   2.40513   2.50798   2.10854   2.10854
 #
 # ATOM AND REFERENCE CONFIGURATION
 # atsym  z   nc   nv     iexc    psfile
-Bi 83.00   12    3       4      psp8
+Bi 83.00   12    3       4      both
 #
 #   n    l    f
 1    0    2.00
