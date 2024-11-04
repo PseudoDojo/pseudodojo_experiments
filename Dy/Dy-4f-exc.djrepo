@@ -1,8 +1,6 @@
 {
 "basename": "Dy-4f-exc.psp8",
 "ecuts": [
-61.0,
-63.0,
 65.0,
 67.0,
 69.0,
@@ -12,22 +10,24 @@
 77.0,
 79.0,
 81.0,
-89.0,
-91.0
+83.0,
+85.0,
+93.0,
+95.0
 ],
-"md5": "16c1dcd396b20af58c565c2c6c98e79c",
+"md5": "e6b21b145c9f3724fc89a9e128120a7a",
 "ppgen_hints": {
 "high": {
-"ecut": 71.0,
-"pawecutdg": 71.0
+"ecut": 75.0,
+"pawecutdg": 75.0
 },
 "low": {
-"ecut": 66.0,
-"pawecutdg": 66.0
+"ecut": 69.0,
+"pawecutdg": 69.0
 },
 "normal": {
-"ecut": 68.0,
-"pawecutdg": 68.0
+"ecut": 71.0,
+"pawecutdg": 71.0
 }
 },
 "pseudo_type": "NC",
