@@ -1,0 +1,50 @@
+{
+"basename": "Pm-4f-exc-high.psp8",
+"ecuts": [
+75.0,
+77.0,
+79.0,
+81.0,
+83.0,
+85.0,
+87.0,
+89.0,
+91.0,
+93.0,
+95.0,
+103.0,
+105.0
+],
+"md5": "8209866f27e24c9858600f2dff485a4e",
+"ppgen_hints": {
+"high": {
+"ecut": 85.0,
+"pawecutdg": 85.0
+},
+"low": {
+"ecut": 77.0,
+"pawecutdg": 77.0
+},
+"normal": {
+"ecut": 81.0,
+"pawecutdg": 81.0
+}
+},
+"pseudo_type": "NC",
+"symbol": "Pm",
+"version": "1.0",
+"xc": {
+"@class": "XcFunc",
+"@module": "pymatgen.core.xcfunc",
+"c": {
+"@class": "LibxcFunc",
+"@module": "pymatgen.core.libxcfunc",
+"name": "GGA_C_PBE"
+},
+"x": {
+"@class": "LibxcFunc",
+"@module": "pymatgen.core.libxcfunc",
+"name": "GGA_X_PBE"
+}
+}
+}

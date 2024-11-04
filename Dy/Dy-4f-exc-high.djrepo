@@ -1,0 +1,50 @@
+{
+"basename": "Dy-4f-exc-high.psp8",
+"ecuts": [
+79.0,
+81.0,
+83.0,
+85.0,
+87.0,
+89.0,
+91.0,
+93.0,
+95.0,
+97.0,
+99.0,
+107.0,
+109.0
+],
+"md5": "e8aaa21b13ce6a9d0a815a9cc5537495",
+"ppgen_hints": {
+"high": {
+"ecut": 89.0,
+"pawecutdg": 89.0
+},
+"low": {
+"ecut": 82.0,
+"pawecutdg": 82.0
+},
+"normal": {
+"ecut": 85.0,
+"pawecutdg": 85.0
+}
+},
+"pseudo_type": "NC",
+"symbol": "Dy",
+"version": "1.0",
+"xc": {
+"@class": "XcFunc",
+"@module": "pymatgen.core.xcfunc",
+"c": {
+"@class": "LibxcFunc",
+"@module": "pymatgen.core.libxcfunc",
+"name": "GGA_C_PBE"
+},
+"x": {
+"@class": "LibxcFunc",
+"@module": "pymatgen.core.libxcfunc",
+"name": "GGA_X_PBE"
+}
+}
+}
