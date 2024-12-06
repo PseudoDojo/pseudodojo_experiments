@@ -1,0 +1,50 @@
+{
+"basename": "Tm-4f-exc-0.25.psp8",
+"ecuts": [
+146.0,
+148.0,
+150.0,
+152.0,
+154.0,
+156.0,
+158.0,
+160.0,
+162.0,
+164.0,
+166.0,
+174.0,
+176.0
+],
+"md5": "6251e2a48aa8198b01579237f69af508",
+"ppgen_hints": {
+"high": {
+"ecut": 156.0,
+"pawecutdg": 156.0
+},
+"low": {
+"ecut": 88.0,
+"pawecutdg": 88.0
+},
+"normal": {
+"ecut": 94.0,
+"pawecutdg": 94.0
+}
+},
+"pseudo_type": "NC",
+"symbol": "Tm",
+"version": "1.0",
+"xc": {
+"@class": "XcFunc",
+"@module": "pymatgen.core.xcfunc",
+"c": {
+"@class": "LibxcFunc",
+"@module": "pymatgen.core.libxcfunc",
+"name": "GGA_C_PBE"
+},
+"x": {
+"@class": "LibxcFunc",
+"@module": "pymatgen.core.libxcfunc",
+"name": "GGA_X_PBE"
+}
+}
+}
